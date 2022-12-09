@@ -26,3 +26,10 @@ In this project, I aim to utilize the following tools:
 * HTML
 * Bulma CSS
 * jQuery & AJAX
+
+## To-Do List
+
+- [ ] Dynamic Fees Calculator
+- [ ] Derivative Rates Calculator
+- [ ] Gap Night Logic Calculator
+- [ ] User Registration & Login (by invitation)
